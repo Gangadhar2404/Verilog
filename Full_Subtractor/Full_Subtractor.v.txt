@@ -1,0 +1,7 @@
+module FS(a,b,cin,d,br);
+input a,b,cin;
+output d,br;
+assign d=a^b^cin;
+assign br=(~a & (b ^ cin)) | (b & cin);
+//assign br=(~a&b)|(b&cin)|(cin&~a);
+endmodule

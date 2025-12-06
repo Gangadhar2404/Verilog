@@ -94,8 +94,3 @@ Counters control sampling intervals in ADC/DAC systems.
 
 ---
 
-If you'd like, I can also add block diagrams, waveform explanation, or a simplified architecture description.
-
----
-
-If you want, I can add a block diagram or waveform explanation as well.

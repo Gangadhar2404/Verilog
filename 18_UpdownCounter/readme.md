@@ -100,10 +100,4 @@ Used in DAC control, tracking, and modulation logic.
 
 ---
 
-If you want, I can also create:
 
-🔹 Combined README for all **Up, Down, and Up-Down counters**  
-🔹 A waveform explanation  
-🔹 Block diagram for the Up-Down counter  
-
-Just tell me!

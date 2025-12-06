@@ -87,10 +87,3 @@ Useful in FSMs that require 0-to-9 iteration loops.
 
 ---
 
-If you want, I can also create:
-
-🔹 A combined README for **Up, Down, Up-Down, and Mod-10 counters**  
-🔹 Waveform explanation  
-🔹 Block diagrams for all counters  
-
-Just tell me!

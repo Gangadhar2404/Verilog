@@ -92,10 +92,3 @@ Useful for multiplexed scanning and switching operations.
 
 ---
 
-If you want, I can also prepare:
-
-🔹 A combined README for **all counters so far**  
-🔹 A block diagram or waveform explanation  
-🔹 Ring counter README in same format  
-
-Just tell me!

@@ -87,4 +87,4 @@ Used for controlling iteration loops in hardware algorithms.
 
 ---
 
-If you'd like, I can also add block diagrams, waveform explanation, or combined README for **both upcounter + downcounter**.
+
